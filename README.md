@@ -1,2 +1,1 @@
-# training-and-development
-Training &amp; Development
+# Training &amp; Development
